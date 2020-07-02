@@ -1,11 +1,13 @@
 # Discord-resource-collector
 
 ## Installation
-    ### Windows
-        pip install -r requirements.txt
-    
-    ### Linux
+
+### Linux
         sudo pip install -r requirements.txt
+    
+### Windows
+        pip install -r requirements.txt
+
 
 ## Usage
       python resource_collector.py
