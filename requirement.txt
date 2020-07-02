@@ -1,0 +1,5 @@
+regex
+PyGithub
+requests
+discord.py
+beautifulsoup4
