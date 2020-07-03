@@ -7,7 +7,7 @@ from github import Github
 #edit these
 github_token="Your_GitHub_Access_Token"
 discord_token="Your_Bot's_Token"
-repo_name="Name_of_Your _repo"
+repo_name="Name_of_Your _repo"  # e.g "az3r0th/Discord-resource-collector"
 channel_name="Name_of_Your_Channel"
 name_of_file="File_in_which_resources_will_be_stored"  #create a markdown file for better view
 
